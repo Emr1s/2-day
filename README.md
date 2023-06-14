@@ -1,3 +1,8 @@
+# Demo project image
+![image](https://github.com/Emr1s/2-day/assets/33460622/cab88f3d-0a54-4ac8-b767-fd5dd08baf11)
+Change pricing:
+![image](https://github.com/Emr1s/2-day/assets/33460622/1c887625-9ae8-45d5-9c60-24c38a9d94a6)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
